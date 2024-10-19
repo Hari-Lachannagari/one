@@ -9,6 +9,7 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h>
  	<h1 style="color: pink; font-size: 40px;" align="center">Congratulations</h1>
  	<h1 style="color: pink; font-size: 40px;" align="center">checking updates for new setup</h>
+ 	<h1 style="color: pink; font-size: 40px;" align="center">Automation test</h>
 
 
 	
