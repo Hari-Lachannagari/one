@@ -1129,7 +1129,7 @@
                     <em class="fas fa-bars"></em>
                 </button>
                 <a class="brand" href="#">
-                    <em class="fas fa-store-alt"></em>
+                    <I class="fas fa-store-alt"></I>
                     <span>Nexus<span class="accent">Shop</span></span>
                 </a>
             </div>
